@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//factorial
+
 int main()
 {
     int i, n, fact=1;
